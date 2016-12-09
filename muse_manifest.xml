@@ -1,26 +1,53 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rypu.github.io" resolutions="1x" timestamp="1481150721389">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rypu.github.io" resolutions="1x" timestamp="1481241498413">
+  <folder name="images">
+    <file name="road.jpg" crc="38118954" seo="true" ref="other-cheats"/>
+    <file name="cactus.jpg" crc="110673419" seo="true" ref="other-cheats"/>
+    <file name="trees.jpg" crc="4242523122" seo="true" ref="other-cheats"/>
+    <file name="road130x87.jpg" crc="4174814531" seo="true" ref="other-cheats"/>
+    <file name="cactus130x87.jpg" crc="4128071816" seo="true" ref="other-cheats"/>
+    <file name="trees131x87.jpg" crc="161751756" seo="true" ref="other-cheats"/>
+    <file name="road134x89.jpg" crc="390117498" seo="true" ref="other-cheats"/>
+    <file name="cactus134x89.jpg" crc="509767820" seo="true" ref="other-cheats"/>
+    <file name="trees134x89.jpg" crc="386417028" seo="true" ref="other-cheats"/>
+    <file name="blank.gif" crc="4208392903" ref="other-cheats"/>
+    <file name="cactus68x45.jpg" crc="396184851" seo="true" ref="other-cheats"/>
+    <file name="road68x45.jpg" crc="308651196" seo="true" ref="other-cheats"/>
+    <file name="trees68x45.jpg" crc="4020386169" seo="true" ref="other-cheats"/>
+    <file name="loading.gif" crc="3815509949" ref="other-cheats"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="295575837" ref="school:english-cheats:index:spanish-cheats:other-cheats"/>
-    <file name="school.css" crc="3767635238" ref="school"/>
-    <file name="english-cheats.css" crc="346453068" ref="english-cheats"/>
-    <file name="index.css" crc="4150347768" ref="index"/>
-    <file name="spanish-cheats.css" crc="352223269" ref="spanish-cheats"/>
-    <file name="other-cheats.css" crc="346453068" ref="other-cheats"/>
+    <file name="master_a-master.css" crc="4003176650" ref="school:english-cheats:index:spanish-cheats:other-cheats:autohotkey-scripts:pirating:misc"/>
+    <file name="school.css" crc="377438238" ref="school"/>
+    <file name="english-cheats.css" crc="4160412910" ref="english-cheats"/>
+    <file name="index.css" crc="3992437156" ref="index"/>
+    <file name="spanish-cheats.css" crc="102199459" ref="spanish-cheats"/>
+    <file name="other-cheats.css" crc="263355966" ref="other-cheats"/>
+    <file name="autohotkey-scripts.css" crc="289156994" ref="autohotkey-scripts"/>
+    <file name="pirating.css" crc="424096692" ref="pirating"/>
+    <file name="misc.css" crc="337577626" ref="misc"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:spanish-cheats:other-cheats:english-cheats"/>
-    <file name="museutils.js" crc="163421577" ref="index:school:spanish-cheats:other-cheats:english-cheats"/>
-    <file name="whatinput.js" crc="86476730" ref="index:school:spanish-cheats:other-cheats:english-cheats"/>
-    <file name="museconfig.js" crc="168988563" ref="index:school:spanish-cheats:other-cheats:english-cheats"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index:school:spanish-cheats:other-cheats:english-cheats"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:school:spanish-cheats:other-cheats:english-cheats"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:school:spanish-cheats:other-cheats:english-cheats"/>
-    <file name="require.js" crc="244322403" ref="index:school:spanish-cheats:other-cheats:english-cheats"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating"/>
+    <file name="museutils.js" crc="163421577" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating"/>
+    <file name="whatinput.js" crc="86476730" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating"/>
+    <file name="museconfig.js" crc="168988563" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating"/>
+    <file name="require.js" crc="244322403" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating"/>
+    <file name="webpro.js" crc="3848665353" ref="other-cheats"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="other-cheats"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="other-cheats"/>
+    <file name="touchswipe.js" crc="404375771" ref="other-cheats"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="other-cheats"/>
   </folder>
-  <file name="index.html" crc="357901117" seo="true" mt="1481150498550" redirect="true"/>
-  <file name="school.html" crc="282432075" seo="true" mt="1481150715777" redirect="true"/>
-  <file name="spanish-cheats.html" crc="3825087475" seo="true" mt="1481150498550" redirect="true"/>
-  <file name="other-cheats.html" crc="536016540" seo="true" mt="1481150498550" redirect="true"/>
-  <file name="english-cheats.html" crc="462427236" seo="true" mt="1481150498550" redirect="true"/>
+  <file name="index.html" crc="427487751" seo="true" mt="1481241385936" redirect="true"/>
+  <file name="school.html" crc="4037934327" seo="true" mt="1481241385937" redirect="true"/>
+  <file name="spanish-cheats.html" crc="4235133331" seo="true" mt="1481241385937" redirect="true"/>
+  <file name="other-cheats.html" crc="35177613" seo="true" mt="1481241474936" redirect="true"/>
+  <file name="english-cheats.html" crc="207233198" seo="true" mt="1481241385938" redirect="true"/>
+  <file name="misc.html" crc="108408357" seo="true" mt="1481241385939" redirect="true"/>
+  <file name="autohotkey-scripts.html" crc="3825682712" seo="true" mt="1481241385939" redirect="true"/>
+  <file name="pirating.html" crc="3863718098" seo="true" mt="1481241385934" redirect="true"/>
 </manifest>
