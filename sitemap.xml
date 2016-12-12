@@ -2,121 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://rypu.github.io/index.html</loc>
-    <lastmod>2016-12-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://rypu.github.io/pirating.html</loc>
-    <lastmod>2016-12-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://rypu.github.io/autohotkey-scripts.html</loc>
-    <lastmod>2016-12-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://rypu.github.io/misc.html</loc>
-    <lastmod>2016-12-08</lastmod>
+    <lastmod>2016-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rypu.github.io/english-cheats.html</loc>
-    <lastmod>2016-12-08</lastmod>
+    <lastmod>2016-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/other-cheats.html</loc>
-    <lastmod>2016-12-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://rypu.github.io/spanish-cheats.html</loc>
-    <lastmod>2016-12-08</lastmod>
+    <loc>http://rypu.github.io/misc.html</loc>
+    <lastmod>2016-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rypu.github.io/school.html</loc>
-    <lastmod>2016-12-08</lastmod>
+    <lastmod>2016-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/images/trees134x89.jpg</loc>
-    <lastmod>2016-12-08</lastmod>
+    <loc>http://rypu.github.io/spanish-cheats.html</loc>
+    <lastmod>2016-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/images/road134x89.jpg</loc>
-    <lastmod>2016-12-08</lastmod>
+    <loc>http://rypu.github.io/other-cheats.html</loc>
+    <lastmod>2016-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/images/cactus134x89.jpg</loc>
-    <lastmod>2016-12-08</lastmod>
+    <loc>http://rypu.github.io/pirating.html</loc>
+    <lastmod>2016-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/images/trees68x45.jpg</loc>
-    <lastmod>2016-12-08</lastmod>
+    <loc>http://rypu.github.io/games.html</loc>
+    <lastmod>2016-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/images/cactus.jpg</loc>
-    <lastmod>2016-12-08</lastmod>
+    <loc>http://rypu.github.io/autohotkey-scripts.html</loc>
+    <lastmod>2016-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/images/trees131x87.jpg</loc>
-    <lastmod>2016-12-08</lastmod>
+    <loc>http://rypu.github.io/battlefield.html</loc>
+    <lastmod>2016-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/images/cactus130x87.jpg</loc>
-    <lastmod>2016-12-08</lastmod>
+    <loc>http://rypu.github.io/assets/battlefield-1-campaign.docx</loc>
+    <lastmod>2016-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/images/road130x87.jpg</loc>
-    <lastmod>2016-12-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://rypu.github.io/images/trees.jpg</loc>
-    <lastmod>2016-12-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://rypu.github.io/images/road.jpg</loc>
-    <lastmod>2016-12-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://rypu.github.io/images/cactus68x45.jpg</loc>
-    <lastmod>2016-12-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://rypu.github.io/images/road68x45.jpg</loc>
-    <lastmod>2016-12-08</lastmod>
+    <loc>http://rypu.github.io/assets/ender-s-game-review.docx</loc>
+    <lastmod>2016-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
