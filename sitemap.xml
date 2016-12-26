@@ -7,36 +7,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/other-cheats.html</loc>
-    <lastmod>2016-12-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://rypu.github.io/english-cheats.html</loc>
-    <lastmod>2016-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://rypu.github.io/battlefield.html</loc>
-    <lastmod>2016-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://rypu.github.io/games.html</loc>
-    <lastmod>2016-12-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://rypu.github.io/pokemon.html</loc>
-    <lastmod>2016-12-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://rypu.github.io/school.html</loc>
     <lastmod>2016-12-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -49,7 +19,31 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/misc.html</loc>
+    <loc>http://rypu.github.io/other-cheats.html</loc>
+    <lastmod>2016-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/pokemon.html</loc>
+    <lastmod>2016-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/battlefield.html</loc>
+    <lastmod>2016-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/scout.html</loc>
+    <lastmod>2016-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/pirating.html</loc>
     <lastmod>2016-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -61,20 +55,26 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/pirating.html</loc>
-    <lastmod>2016-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://rypu.github.io/images/rice%20man.jpg</loc>
+    <loc>http://rypu.github.io/games.html</loc>
     <lastmod>2016-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/assets/battlefield-1-campaign.docx</loc>
+    <loc>http://rypu.github.io/english-cheats.html</loc>
     <lastmod>2016-12-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/misc.html</loc>
+    <lastmod>2016-12-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/images/martini%20henry%20and%20sutf.jpg</loc>
+    <lastmod>2016-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -85,14 +85,44 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/assets/pok.cci</loc>
-    <lastmod>2016-12-17</lastmod>
+    <loc>http://rypu.github.io/assets/battlefield-1-campaign.docx</loc>
+    <lastmod>2016-12-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/images/carbine%20scope.jpg</loc>
+    <lastmod>2016-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/images/scopes.jpg</loc>
+    <lastmod>2016-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/images/marksman%20and%20sniper%20optics.jpg</loc>
+    <lastmod>2016-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rypu.github.io/assets/citra-zip.zip</loc>
-    <lastmod>2016-12-19</lastmod>
+    <lastmod>2016-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/images/rice%20man.jpg</loc>
+    <lastmod>2016-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/assets/pok.cci</loc>
+    <lastmod>2016-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
