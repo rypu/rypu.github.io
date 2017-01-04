@@ -7,19 +7,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/school.html</loc>
+    <loc>http://rypu.github.io/tanker.html</loc>
     <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/spanish-cheats.html</loc>
-    <lastmod>2016-12-11</lastmod>
+    <loc>http://rypu.github.io/guns.html</loc>
+    <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/other-cheats.html</loc>
+    <loc>http://rypu.github.io/scout.html</loc>
     <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -37,8 +37,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/scout.html</loc>
-    <lastmod>2017-01-03</lastmod>
+    <loc>http://rypu.github.io/games.html</loc>
+    <lastmod>2016-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -55,8 +55,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/games.html</loc>
-    <lastmod>2016-12-19</lastmod>
+    <loc>http://rypu.github.io/misc.html</loc>
+    <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -67,20 +67,26 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/misc.html</loc>
+    <loc>http://rypu.github.io/other-cheats.html</loc>
     <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/images/martini%20henry%20and%20sutf.jpg</loc>
-    <lastmod>2017-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://rypu.github.io/assets/ender-s-game-review.docx</loc>
+    <loc>http://rypu.github.io/spanish-cheats.html</loc>
     <lastmod>2016-12-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/school.html</loc>
+    <lastmod>2017-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/images/support%20weapons.jpg</loc>
+    <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -91,7 +97,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/images/carbine%20scope.jpg</loc>
+    <loc>http://rypu.github.io/images/medic%20weapons.jpg</loc>
+    <lastmod>2017-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/images/assult%20weapons.jpg</loc>
+    <lastmod>2017-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/images/symbols%20on%20screen.jpg</loc>
+    <lastmod>2017-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/images/martini%20henry%20and%20sutf.jpg</loc>
     <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -109,8 +133,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/assets/citra-zip.zip</loc>
-    <lastmod>2016-12-22</lastmod>
+    <loc>http://rypu.github.io/images/carbine%20scope.jpg</loc>
+    <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -123,6 +147,30 @@
   <url>
     <loc>http://rypu.github.io/assets/pok.cci</loc>
     <lastmod>2016-12-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/assets/citra-zip.zip</loc>
+    <lastmod>2016-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/images/scout%20weapons.jpg</loc>
+    <lastmod>2017-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/assets/ender-s-game-review.docx</loc>
+    <lastmod>2016-12-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rypu.github.io/images/all%20gun%20variants%20meanings.jpg</loc>
+    <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

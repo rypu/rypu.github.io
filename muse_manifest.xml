@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rypu.github.io" resolutions="1x" timestamp="1483494590152">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rypu.github.io" resolutions="1x" timestamp="1483500483286">
   <folder name="assets">
     <file name="ender-s-game-review.docx" crc="407018635" seo="true" mt="1481507406000"/>
     <file name="battlefield-1-campaign.docx" crc="264145101" seo="true" mt="1481507708000"/>
@@ -11,10 +11,16 @@
     <file name="marksman and sniper optics.jpg" crc="3824625614" seo="true" ref="scout"/>
     <file name="scopes.jpg" crc="3814761265" seo="true" ref="scout"/>
     <file name="martini henry and sutf.jpg" crc="377044032" seo="true" ref="scout"/>
+    <file name="symbols on screen.jpg" crc="513837889" seo="true" ref="battlefield"/>
+    <file name="assult weapons.jpg" crc="3961395016" seo="true" ref="guns"/>
+    <file name="medic weapons.jpg" crc="4146532563" seo="true" ref="guns"/>
+    <file name="support weapons.jpg" crc="370428306" seo="true" ref="guns"/>
+    <file name="scout weapons.jpg" crc="465292171" seo="true" ref="guns"/>
+    <file name="all gun variants meanings.jpg" crc="4136229543" seo="true" ref="guns"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="3998544108" ref="school:english-cheats:index:spanish-cheats:other-cheats:autohotkey-scripts:pirating:misc:games:battlefield:pokemon:scout"/>
+    <file name="master_a-master.css" crc="3998544108" ref="school:english-cheats:index:spanish-cheats:other-cheats:autohotkey-scripts:pirating:misc:games:battlefield:pokemon:scout:tanker:guns"/>
     <file name="school.css" crc="469423447" ref="school"/>
     <file name="english-cheats.css" crc="143896460" ref="english-cheats"/>
     <file name="index.css" crc="4290302616" ref="index"/>
@@ -24,19 +30,21 @@
     <file name="pirating.css" crc="57117966" ref="pirating"/>
     <file name="misc.css" crc="3889150144" ref="misc"/>
     <file name="games.css" crc="4122343324" ref="games"/>
-    <file name="battlefield.css" crc="4178559698" ref="battlefield"/>
+    <file name="battlefield.css" crc="4137078675" ref="battlefield"/>
     <file name="pokemon.css" crc="191777277" ref="pokemon"/>
     <file name="scout.css" crc="3770580120" ref="scout"/>
+    <file name="tanker.css" crc="3773292600" ref="tanker"/>
+    <file name="guns.css" crc="3873901836" ref="guns"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout"/>
-    <file name="museutils.js" crc="163421577" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout"/>
-    <file name="whatinput.js" crc="86476730" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout"/>
-    <file name="museconfig.js" crc="168988563" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout"/>
-    <file name="require.js" crc="244322403" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns"/>
+    <file name="museutils.js" crc="163421577" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns"/>
+    <file name="whatinput.js" crc="86476730" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns"/>
+    <file name="museconfig.js" crc="168988563" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns"/>
+    <file name="require.js" crc="244322403" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout:tanker:guns"/>
   </folder>
   <file name="index.html" crc="3767057660" seo="true" mt="1483494466670" redirect="true"/>
   <file name="school.html" crc="4031756680" seo="true" mt="1483494493464" redirect="true"/>
@@ -47,7 +55,9 @@
   <file name="autohotkey-scripts.html" crc="79802030" seo="true" mt="1483494532709" redirect="true"/>
   <file name="pirating.html" crc="4183842695" seo="true" mt="1483494547759" redirect="true"/>
   <file name="games.html" crc="4294484250" seo="true" mt="1482200623256" redirect="true"/>
-  <file name="battlefield.html" crc="4199985207" seo="true" mt="1483493349638" redirect="true"/>
+  <file name="battlefield.html" crc="3791820556" seo="true" mt="1483500227827" redirect="true"/>
   <file name="pokemon.html" crc="4134832441" seo="true" mt="1482452561688" redirect="true"/>
   <file name="scout.html" crc="4290556938" seo="true" mt="1483493393769" redirect="true"/>
+  <file name="tanker.html" crc="3884663236" seo="true" mt="1483496095352" redirect="true"/>
+  <file name="guns.html" crc="105592204" seo="true" mt="1483500470810" redirect="true"/>
 </manifest>
