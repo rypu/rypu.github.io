@@ -13,20 +13,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/guns.html</loc>
-    <lastmod>2017-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://rypu.github.io/scout.html</loc>
     <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/pokemon.html</loc>
-    <lastmod>2016-12-22</lastmod>
+    <loc>http://rypu.github.io/guns.html</loc>
+    <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -43,8 +37,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/pirating.html</loc>
-    <lastmod>2017-01-03</lastmod>
+    <loc>http://rypu.github.io/pokemon.html</loc>
+    <lastmod>2016-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -61,7 +55,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/english-cheats.html</loc>
+    <loc>http://rypu.github.io/pirating.html</loc>
     <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -79,25 +73,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://rypu.github.io/english-cheats.html</loc>
+    <lastmod>2017-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://rypu.github.io/school.html</loc>
     <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/images/support%20weapons.jpg</loc>
+    <loc>http://rypu.github.io/images/medic%20weapons.jpg</loc>
     <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/assets/battlefield-1-campaign.docx</loc>
-    <lastmod>2016-12-11</lastmod>
+    <loc>http://rypu.github.io/images/support%20weaponss.jpg</loc>
+    <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/images/medic%20weapons.jpg</loc>
+    <loc>http://rypu.github.io/images/martini%20henry%20and%20sutf.jpg</loc>
     <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -115,7 +115,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/images/martini%20henry%20and%20sutf.jpg</loc>
+    <loc>http://rypu.github.io/images/carbine%20scope.jpg</loc>
     <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -133,8 +133,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/images/carbine%20scope.jpg</loc>
-    <lastmod>2017-01-03</lastmod>
+    <loc>http://rypu.github.io/assets/citra-zip.zip</loc>
+    <lastmod>2016-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -151,26 +151,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/assets/citra-zip.zip</loc>
-    <lastmod>2016-12-22</lastmod>
+    <loc>http://rypu.github.io/images/all%20gun%20variants%20meaningss.jpg</loc>
+    <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rypu.github.io/images/scout%20weapons.jpg</loc>
-    <lastmod>2017-01-03</lastmod>
+    <loc>http://rypu.github.io/assets/battlefield-1-campaign.docx</loc>
+    <lastmod>2016-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rypu.github.io/assets/ender-s-game-review.docx</loc>
     <lastmod>2016-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://rypu.github.io/images/all%20gun%20variants%20meanings.jpg</loc>
-    <lastmod>2017-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
