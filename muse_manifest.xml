@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rypu.github.io" resolutions="1x" timestamp="1482453424947">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rypu.github.io" resolutions="1x" timestamp="1483494590152">
   <folder name="assets">
     <file name="ender-s-game-review.docx" crc="407018635" seo="true" mt="1481507406000"/>
     <file name="battlefield-1-campaign.docx" crc="264145101" seo="true" mt="1481507708000"/>
@@ -16,17 +16,17 @@
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="3998544108" ref="school:english-cheats:index:spanish-cheats:other-cheats:autohotkey-scripts:pirating:misc:games:battlefield:pokemon:scout"/>
     <file name="school.css" crc="469423447" ref="school"/>
-    <file name="english-cheats.css" crc="3911803895" ref="english-cheats"/>
-    <file name="index.css" crc="4123490204" ref="index"/>
+    <file name="english-cheats.css" crc="143896460" ref="english-cheats"/>
+    <file name="index.css" crc="4290302616" ref="index"/>
     <file name="spanish-cheats.css" crc="54997708" ref="spanish-cheats"/>
-    <file name="other-cheats.css" crc="3905643832" ref="other-cheats"/>
-    <file name="autohotkey-scripts.css" crc="4251279369" ref="autohotkey-scripts"/>
-    <file name="pirating.css" crc="248956379" ref="pirating"/>
-    <file name="misc.css" crc="191688194" ref="misc"/>
+    <file name="other-cheats.css" crc="4289805132" ref="other-cheats"/>
+    <file name="autohotkey-scripts.css" crc="3902701951" ref="autohotkey-scripts"/>
+    <file name="pirating.css" crc="57117966" ref="pirating"/>
+    <file name="misc.css" crc="3889150144" ref="misc"/>
     <file name="games.css" crc="4122343324" ref="games"/>
     <file name="battlefield.css" crc="4178559698" ref="battlefield"/>
     <file name="pokemon.css" crc="191777277" ref="pokemon"/>
-    <file name="scout.css" crc="3888228238" ref="scout"/>
+    <file name="scout.css" crc="3770580120" ref="scout"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout"/>
@@ -38,16 +38,16 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout"/>
     <file name="require.js" crc="244322403" ref="index:school:spanish-cheats:other-cheats:english-cheats:misc:autohotkey-scripts:pirating:games:battlefield:pokemon:scout"/>
   </folder>
-  <file name="index.html" crc="3987620095" seo="true" mt="1481853401711" redirect="true"/>
-  <file name="school.html" crc="400435483" seo="true" mt="1481848308141" redirect="true"/>
+  <file name="index.html" crc="3767057660" seo="true" mt="1483494466670" redirect="true"/>
+  <file name="school.html" crc="4031756680" seo="true" mt="1483494493464" redirect="true"/>
   <file name="spanish-cheats.html" crc="3765119343" seo="true" mt="1481507632004" redirect="true"/>
-  <file name="other-cheats.html" crc="58677475" seo="true" mt="1482200713473" redirect="true"/>
-  <file name="english-cheats.html" crc="4076996114" seo="true" mt="1481507632004" redirect="true"/>
-  <file name="misc.html" crc="3953505631" seo="true" mt="1481507632004" redirect="true"/>
-  <file name="autohotkey-scripts.html" crc="196654258" seo="true" mt="1481507632004" redirect="true"/>
-  <file name="pirating.html" crc="257924852" seo="true" mt="1481507632004" redirect="true"/>
+  <file name="other-cheats.html" crc="4020047762" seo="true" mt="1483493142909" redirect="true"/>
+  <file name="english-cheats.html" crc="194892501" seo="true" mt="1483493090420" redirect="true"/>
+  <file name="misc.html" crc="3825656381" seo="true" mt="1483494379898" redirect="true"/>
+  <file name="autohotkey-scripts.html" crc="79802030" seo="true" mt="1483494532709" redirect="true"/>
+  <file name="pirating.html" crc="4183842695" seo="true" mt="1483494547759" redirect="true"/>
   <file name="games.html" crc="4294484250" seo="true" mt="1482200623256" redirect="true"/>
-  <file name="battlefield.html" crc="4129944585" seo="true" mt="1482453273341" redirect="true"/>
+  <file name="battlefield.html" crc="4199985207" seo="true" mt="1483493349638" redirect="true"/>
   <file name="pokemon.html" crc="4134832441" seo="true" mt="1482452561688" redirect="true"/>
-  <file name="scout.html" crc="4092191849" seo="true" mt="1482453399870" redirect="true"/>
+  <file name="scout.html" crc="4290556938" seo="true" mt="1483493393769" redirect="true"/>
 </manifest>
