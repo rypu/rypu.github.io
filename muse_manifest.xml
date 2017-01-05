@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rypu.github.io" resolutions="1x" timestamp="1483569087443">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rypu.github.io" resolutions="1x" timestamp="1483585777202">
   <folder name="assets">
     <file name="ender-s-game-review.docx" crc="407018635" seo="true" mt="1481507406000"/>
     <file name="battlefield-1-campaign.docx" crc="264145101" seo="true" mt="1481507708000"/>
@@ -25,7 +25,7 @@
     <file name="english-cheats.css" crc="143896460" ref="english-cheats"/>
     <file name="index.css" crc="4290302616" ref="index"/>
     <file name="spanish-cheats.css" crc="177389658" ref="spanish-cheats"/>
-    <file name="other-cheats.css" crc="4289805132" ref="other-cheats"/>
+    <file name="other-cheats.css" crc="292409260" ref="other-cheats"/>
     <file name="autohotkey-scripts.css" crc="3902701951" ref="autohotkey-scripts"/>
     <file name="pirating.css" crc="57117966" ref="pirating"/>
     <file name="misc.css" crc="3889150144" ref="misc"/>
@@ -49,7 +49,7 @@
   <file name="index.html" crc="3974758323" seo="true" mt="1483568420846" redirect="true"/>
   <file name="school.html" crc="4031756680" seo="true" mt="1483494493464" redirect="true"/>
   <file name="spanish-cheats.html" crc="144330161" seo="true" mt="1483569058792" redirect="true"/>
-  <file name="other-cheats.html" crc="4020047762" seo="true" mt="1483493142909" redirect="true"/>
+  <file name="other-cheats.html" crc="4266137248" seo="true" mt="1483585770711" redirect="true"/>
   <file name="english-cheats.html" crc="194892501" seo="true" mt="1483493090420" redirect="true"/>
   <file name="misc.html" crc="3825656381" seo="true" mt="1483494379898" redirect="true"/>
   <file name="autohotkey-scripts.html" crc="79802030" seo="true" mt="1483494532709" redirect="true"/>
